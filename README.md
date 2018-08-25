@@ -1,4 +1,4 @@
-# Twitter-Stimulation
+# Twitter-Simulation
 A course Project in racket language
 
 ## Sagar Kalsaria​ 
